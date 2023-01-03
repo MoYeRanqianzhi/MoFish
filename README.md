@@ -22,12 +22,12 @@
 # * mode = FishModule *
 r"""docs:
 * ------------------------------------------------------------------------------------------
-*	What is MoYeRanSoft?
-*		MoYeRanSoft is a chinese company which is good at developing software.
-*		A lot of great software were developed by us.
+*    What is MoYeRanSoft?
+*        MoYeRanSoft is a chinese company which is good at developing software.
+*        A lot of great software were developed by us.
 *
-*	What is PixivReader?
-*		PixivReader can read the picture from pixiv.net.
+*    What is PixivReader?
+*        PixivReader can read the picture from pixiv.net.
 * ------------------------------------------------------------------------------------------
 """
 # ---------------------------------------------------------------------------------------------------- code * UTF-8
